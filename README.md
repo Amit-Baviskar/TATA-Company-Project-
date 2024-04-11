@@ -1,11 +1,11 @@
 # TATA-Company-Project-
-Data Visualisation: Empowering Business with Effective Insights 
+ :bar_chart:Data Visualisation: Empowering Business with Effective Insights 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# Tata-Company-Project(Data Visualisation: Empowering Business with Effective Insights)
+# :pushpin: Tata-Company-Project(Data Visualisation: Empowering Business with Effective Insights)
 
 
 
-# &#xEA6A;Dataset --- Online Retail 
+# :open_file_folder: Dataset --- Online Retail :open_file_folder:
 
 Dr Daqing Chen, Director: Public Analytics group. chend '@' lsbu.ac.uk, School of Engineering, London South Bank University, London SE1 0AA, UK. 
 
@@ -16,10 +16,9 @@ Data Visualisation: Empowering Business with Effective Insights(Micro internship
 
 
 
+# DASHBOARD
 
 
-
-# DASHBOARD 
 
 ![Task 1](https://github.com/Amit-Baviskar/TATA-Company-Project-/assets/153518736/4d05bc84-eb7c-456e-b4bf-1271aaa376b5)
 
@@ -32,7 +31,7 @@ Data Visualisation: Empowering Business with Effective Insights(Micro internship
 The CEO of the retail store is interested to view the time series of the revenue data for the year 2011 only. He would like to view granular data by looking into revenue for each month.
 
 
-# Monthly Revenue Of 2011
+# :chart_with_upwards_trend:Monthly Revenue Of 2011
 ![Task 2](https://github.com/Amit-Baviskar/TATA-Company-Project-/assets/153518736/2a0e55a3-88fb-47ac-8e65-d63231544804)
 
  **Monthly Revenue Of 2011**
@@ -46,7 +45,7 @@ The CMO is interested in viewing the top 10 countries which are generating the h
 
 
 
-# Top 10 Country - Revenue And Quantity Sales Wise
+# :chart_with_upwards_trend:Top 10 Country - Revenue And Quantity Sales Wise
 ![Task 3](https://github.com/Amit-Baviskar/TATA-Company-Project-/assets/153518736/35da3e55-fbe6-4c9a-a939-737722ffae85)
 
  **Top 10 Country - Revenue And Quantity Sales Wise**
@@ -60,7 +59,7 @@ France and Austria is leading in chart.This countries can be part of the future 
 The CMO of the online retail store wants to view the information on the top 10 customers by revenue. He is interested in a visual that shows the greatest revenue generating customer at the start and gradually declines to the lower revenue generating customers. The CMO wants to target the higher revenue generating customers and ensure that they remain satisfied with their products
 
 
-# Top 10 Customer Vs Revenue Generated
+# :chart_with_upwards_trend: Top 10 Customer Vs Revenue Generated
 ![Task 4](https://github.com/Amit-Baviskar/TATA-Company-Project-/assets/153518736/ed13572e-81c9-442e-861c-97b5d6f7e918) 
 
  **Top 10 Customer Vs Revenue Generated**
@@ -78,13 +77,15 @@ need to show data for the United Kingdom as the CEO is more interested in viewin
  
 
 
-# World Map (Distribution Of Sales)
+# :world_map: World Map (Distribution Of Sales)
 ![TASK 5](https://github.com/Amit-Baviskar/TATA-Company-Project-/assets/153518736/04d23e03-ac2e-4438-94bf-e4c6be9806f4)
 
  **World Map (Distribution Of Sales)**
 
 Solution-- As seen in map chart we can observe that , Europe has been the major customer of product of our company like Netherlands, Finland ,Sweden etc followed by Austrialia. But we can also Focus on North America had the product sold is less in this region . we have to form different plan for both regionfor more revenue opportunity
 
-# Tableau Link : https://public.tableau.com/app/profile/amit.bavikar/vizzes
+
+# :pushpin:Tableau Link :
+https://public.tableau.com/app/profile/amit.bavikar/vizzes
  
 
